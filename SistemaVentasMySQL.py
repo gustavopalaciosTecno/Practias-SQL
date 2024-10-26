@@ -13,7 +13,7 @@ class Venta:
             "cliente": self.cliente,
             "productos": self.productos
         }
-
+#fgdsfdsfdsfds
 class VentaOnline(Venta):
     def __init__(self, fecha, cliente, productos, plataforma):
         super().__init__(fecha, cliente, productos)
