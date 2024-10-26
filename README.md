@@ -39,7 +39,7 @@
 # Ejecuta el programa principal con el siguiente comando:
 # bash
 # Copiar código
-# python nombre_del_archivo.py
+# python SistemaVentasSQL.py
 # Ejemplo de Código
 
 # Clases
